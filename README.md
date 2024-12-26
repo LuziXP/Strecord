@@ -2,7 +2,7 @@
 ![StrecordLogo](https://github.com/LuziXP/Strecord/blob/main/logo.png?raw=true) 
 # Strecord `BETA`
 
-Bir yayını kolayca kaydedin.
+Yayınları kolayca kaydedin
 
 
 
