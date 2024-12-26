@@ -1,0 +1,2 @@
+# Strecord
+Yayınları kolayca kaydedin
