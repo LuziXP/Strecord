@@ -9,6 +9,7 @@ Yayınları kolayca kaydedin
 ## Gerekli 
 
 - [Node.js](https://nodejs.org/dist/v22.12.0/node-v22.12.0-x64.msi)
+- [FFMPEG](https://www.ffmpeg.org/download.html) | [Kurulum Videosu](https://www.youtube.com/watch?v=2r_Qvgem9m4)
     
 ## Kullanım
 
